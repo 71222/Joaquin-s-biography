@@ -1,0 +1,96 @@
+body{
+    background-image: url("../pics/blackpic.jpg");
+}
+
+.i1{
+    border-bottom: 2px solid rgb(124, 115, 115);
+    height: 50px;
+    }
+    
+    
+    .img2{
+        position: absolute;
+        left: 30px;
+        border: 2px solid black;
+    }
+    
+    .h1{
+        color: aliceblue;
+        font-family: Broadway;
+        font-size: 40px;
+    
+    }
+    
+    .h1:hover{
+    color: darkgrey;
+    }
+    .p1 {
+        color: white;
+        font-family:Arial Rounded MT Bold;
+        font-size: 28px;
+        padding: 0px;
+       
+    }    
+    
+    .p2 {
+        color: white;
+        font-family:Arial Rounded MT Bold;
+        font-size: 28px;
+        padding: 0px;
+       
+    }    
+
+    .bb1{
+        color: red;
+        font-size: 28px;
+    }
+
+    .l1{
+        color: white;
+        font-family:Arial Rounded MT Bold;
+        font-size: 28px;
+        padding: 0px;
+    }
+
+    .l1:hover{
+        color:darkgrey; 
+    }
+
+    .m1{
+        text-decoration: none;
+    color: rgba(129, 128, 124, 0.966)
+    }
+
+    .m1:hover{
+        color:white; 
+    }
+
+    .c1{
+        color: white;
+        font-family:Arial Rounded MT Bold;
+        font-size: 28px;
+        padding: 0px;
+    }
+
+    .img3{
+        float: right;
+        border: 2px solid black;
+    }
+
+    .img4{
+        position: absolute;
+        left: 95px;
+        border: 2px solid black;
+    }
+
+    .img5{
+        position: absolute;
+        left: 950px;
+        border: 2px solid black;
+    }
+
+    .img6{
+        position: absolute;
+        left: 460px;
+        border: 2px solid black;
+    }

@@ -1,0 +1,90 @@
+
+
+
+body {
+background-image: url("../pics/blackpic.jpg");
+}
+
+.h1{
+    color: aliceblue;
+    font-family: Broadway;
+    font-size: xx-large;
+
+}
+
+.h1:hover{
+color: darkgrey;
+}
+
+
+.img1{
+    float: center;
+    border: 2px solid black;
+}
+  
+
+
+.p2 {
+    color: white;
+    font-family:Arial Rounded MT Bold;
+    font-size: 28px;
+    border: 2px solid rgb(124, 115, 115);
+    padding: 0px;
+   
+}    
+
+.v1{
+    text-decoration: none;
+    color: rgba(129, 128, 124, 0.966)
+}
+
+.v1:hover{
+     color: white;
+}
+
+.p3 {
+    color: white;
+    font-family:Arial Rounded MT Bold;
+    font-size: 28px;
+    border: 2px solid rgb(124, 115, 115);
+    padding: 10px;
+}
+
+.u1{
+    text-decoration: none;
+    color: rgba(129, 128, 124, 0.966)
+}
+
+.u1:hover{
+    color: white;
+}
+
+.e1{
+    text-decoration: none;
+    border: 3px solid black;
+    padding: 20px  40px;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 30px;
+    border-radius: 20px;
+    color: rgba(129, 128, 124, 0.966) ;
+    
+}
+
+.e1:hover{
+    background-color:rgb(228, 200, 74)  ;
+}
+
+.d1{
+    text-decoration: none;
+    border: 3px solid  black;
+    padding: 20px 40px;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 30px;
+    border-radius: 20px;
+    color:rgba(129, 128, 124, 0.966) ;
+    
+}
+
+.d1:hover{
+    background-color: rgb(228, 200, 74);
+}
